@@ -4,8 +4,8 @@ import styled from 'styled-components';
 const Hero = () => {
   return (
     <Wrapper>
-      <HeroImage src="/images/hero-img.jpg" />
-      <Swoop src="/swoop.svg" />
+      <HeroImage src="/images/hero-img.avif" />
+      <Swoop alt="" src="/swoop.svg" />
     </Wrapper>
   );
 };

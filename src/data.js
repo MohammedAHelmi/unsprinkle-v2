@@ -47,6 +47,7 @@ const data = [
     tags: [
       'lizard',
       'world-famous insurance salesman from the commercials',
+      'world-famous insurance salesman from the commercials',
     ],
   },
   {
